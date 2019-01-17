@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sensor_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="Fragments.SensorFragment">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvSensorName"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="@color/blue"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

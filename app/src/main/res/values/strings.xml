@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="values">Here is where the values will appear</string>
+    <string name="API">API</string>
+    <string name="sensors">Sensors</string>
+    <string name="volley">Volley</string>
+    <string name="asynctask">Async-Task</string>
+    <string name="getresults">Get results</string>
+    <string name="rvHumi">Humidity: </string>
+    <string name="rvPress">Pressure: </string>
+    <string name="degrees">°c</string>
+    <string name="rvTemp">Temperature: </string>
+    <string name="listenonsensors">Start reading sensors</string>
+    <string name="stoplistenonsensors">Stop reading sensors</string>
+    <string name="systembrightness">Systembrightness</string>
+    <string name="screenbrightness">Screenbrightness</string>
+    <string name="choosebrightness">Here you can choose your brightness</string>
+    <string name="preferenceis">Your preference is: Low</string>
+    <string name="showsystembright">This will show system brightness</string>
+    <string name="showscreenbright">This will show screen brightness</string>
+</resources>
